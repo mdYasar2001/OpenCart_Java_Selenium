@@ -1,0 +1,4 @@
+18:07:55.318 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+18:07:55.936 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+18:07:56.126 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+18:07:58.017 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****

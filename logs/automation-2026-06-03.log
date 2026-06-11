@@ -1,0 +1,45 @@
+15:20:24.858 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:20:24.982 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:20:25.848 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:20:30.775 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:23:41.280 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:23:41.405 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:23:41.888 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:23:43.793 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:23:43.873 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+15:24:34.700 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:24:34.852 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:24:35.294 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:24:35.983 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:25:24.706 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:25:24.837 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:25:25.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:25:26.388 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:31:28.227 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:31:28.348 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:31:28.793 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:31:30.496 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:31:30.565 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+15:45:34.303 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:45:34.575 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:45:35.279 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:45:38.093 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:45:38.185 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+15:50:59.386 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:50:59.388 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:50:59.936 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:51:00.079 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:51:00.861 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:51:00.909 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:51:06.525 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:51:06.531 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:51:06.855 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+15:51:06.855 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+15:51:15.532 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+15:51:15.636 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+15:51:16.539 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+15:51:18.779 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+15:51:18.892 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+07:52:18.025 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+07:52:18.049 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+07:52:18.452 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****

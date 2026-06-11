@@ -1,0 +1,24 @@
+{
+  "loginData": [
+    {
+      "loginId": "shaikmuhammadyasar@gmail.com",
+      "password": "virat@123",
+      "res": "success"
+    },
+    {
+      "loginId": "shaikmuhammadyasar@gmail.com",
+      "password": "test123",
+      "res": "failure"
+    },
+    {
+      "loginId": "yasar@gmail.com",
+      "password": "Virat@123",
+      "res": "failure"
+    },
+    {
+      "loginId": "muha@gmail.com",
+      "password": "admin123",
+      "res": "failure"
+    }
+  ]
+}
