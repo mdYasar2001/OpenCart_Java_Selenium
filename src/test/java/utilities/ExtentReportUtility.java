@@ -30,6 +30,7 @@ public class ExtentReportUtility implements ITestListener
 	
 	String reportName;
 	
+	@Override
 	public void onStart(ITestContext testContext) {
 		
 		/* SimpleDateFormat df = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
@@ -68,6 +69,8 @@ public class ExtentReportUtility implements ITestListener
 	}
 	
 	public void onTestSuccess(ITestResult result) {
+		System.out.println("********* on Test Sucess *********");
+		
 		test = extent.createTest(result.getTestClass().getName()); //create a new entry in the report
 		test.assignCategory(result.getMethod().getGroups()); // to display groups in reports
 		test.log(Status.PASS, result.getName()+" got sucessfully executed"); //update statuses
@@ -95,10 +98,16 @@ public class ExtentReportUtility implements ITestListener
 	}
 	
 	public void onFinish(ITestContext context) {
+		System.out.println("********* INSIDE onFinish() *********");
 		extent.flush();
 		
 		String pathOfExtentReport = System.getProperty("user.dir")+".\\reports\\"+reportName;
 		File extentReport = new File(pathOfExtentReport);
+		
+		System.out.println("Report Path: "+ extentReport.getAbsolutePath());
+
+	    System.out.println("Report Exists: "+ extentReport.exists());
+	    System.out.println("Inside onFinish()");
 		
 		try {
 			Desktop.getDesktop().browse(extentReport.toURI());

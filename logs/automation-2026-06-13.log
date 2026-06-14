@@ -1,0 +1,56 @@
+21:17:48.311 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+21:17:48.416 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+21:17:49.269 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+21:17:52.038 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+21:17:52.112 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+10:34:19.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Yasar\YASAR\Projects\eclipse-workspace\OpencartV121\grid-docker.xml
+
+10:42:26.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Yasar\YASAR\Projects\eclipse-workspace\OpencartV121\grid-docker.xml
+
+10:42:40.198 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+10:42:40.383 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+10:42:41.575 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+10:42:44.376 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+10:42:44.491 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+10:42:47.678 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+10:42:47.678 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+10:42:48.351 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+10:42:48.651 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+10:42:51.257 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+10:43:00.406 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+10:43:00.539 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+10:43:01.814 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+10:43:05.307 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+10:43:05.383 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+10:43:11.698 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+10:43:11.698 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+10:43:12.339 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+10:43:15.187 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+10:43:15.264 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+11:53:18.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Yasar\YASAR\Projects\eclipse-workspace\OpencartV121\grid-docker.xml
+
+11:53:24.516 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+11:53:24.680 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+11:53:25.129 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+11:53:26.991 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+11:53:27.210 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+11:53:28.917 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+11:53:28.922 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+11:56:29.297 [main] INFO  testCases.TC002_LoginTest - ****Bug found****
+11:56:29.325 [main] ERROR testCases.TC002_LoginTest - Test Failed...
+12:08:40.069 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Yasar\YASAR\Projects\eclipse-workspace\OpencartV121\grid-docker.xml
+
+12:08:46.756 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+12:08:46.923 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+12:08:47.761 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+12:08:50.956 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+12:08:51.086 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+12:08:54.018 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+12:08:54.021 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+12:08:54.781 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+12:08:55.117 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+12:08:56.846 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****

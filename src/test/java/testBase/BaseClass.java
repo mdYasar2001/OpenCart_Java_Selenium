@@ -24,7 +24,10 @@ import org.testng.annotations.*;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.annotations.Listeners;
+import utilities.ExtentReportUtility;
 
+@Listeners(ExtentReportUtility.class)
 public class BaseClass {
 	
 	public static WebDriver driver;
@@ -57,13 +60,17 @@ public class BaseClass {
 		if(p.getProperty("exe_Env").equalsIgnoreCase("remote"))
 		{
 			DesiredCapabilities cap = new DesiredCapabilities();
-			if(os.equalsIgnoreCase("windows")) {
+			if(os.equalsIgnoreCase("windows")) 
+			{
 				cap.setPlatform(Platform.WIN11);
-			} else if(os.equalsIgnoreCase("linux")) {
+			} else if(os.equalsIgnoreCase("linux")) 
+			{
 				cap.setPlatform(Platform.LINUX);
-			} else if(os.equalsIgnoreCase("mac")) {
+			} else if(os.equalsIgnoreCase("mac")) 
+			{
 				cap.setPlatform(Platform.MAC);
-			} else {
+			} else 
+			{
 				System.out.println("No OS is matched");
 				return;
 			}

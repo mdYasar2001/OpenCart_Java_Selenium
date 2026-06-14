@@ -1,0 +1,52 @@
+18:07:55.318 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+18:07:55.936 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+18:07:56.126 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+18:07:58.017 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+20:56:50.513 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+20:56:50.543 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+20:56:51.469 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+20:56:51.778 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+20:56:53.480 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+20:56:57.581 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+20:56:57.673 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+20:56:58.435 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+20:57:00.822 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+20:57:00.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+20:59:10.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Yasar\YASAR\Projects\eclipse-workspace\OpencartV121\master.xml
+
+20:59:14.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+20:59:15.044 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+20:59:15.866 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+20:59:18.702 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+20:59:18.786 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+20:59:21.747 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+20:59:21.752 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+20:59:22.751 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+20:59:23.082 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+20:59:24.826 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+21:00:21.915 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+21:00:21.934 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+21:00:23.320 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+21:00:30.594 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+21:00:30.693 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+21:00:33.772 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+21:00:33.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+21:00:35.316 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+21:00:39.254 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+21:00:39.317 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+21:04:05.994 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+21:04:06.021 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+21:04:06.775 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+21:04:07.206 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+21:04:10.286 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****
+21:04:13.290 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC0001 AccountRegistrartion Test Case****
+21:04:13.392 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on My Account Btn****
+21:04:14.218 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Btn****
+21:04:16.448 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+21:04:16.517 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed TC0001 AccountRegistrartion Test Case****
+21:17:42.555 [main] INFO  testCases.TC002_LoginTest - ****Starting TC0002 login Test Case****
+21:17:42.578 [main] INFO  testCases.TC002_LoginTest - ****Clicking Login Btn****
+21:17:43.553 [main] INFO  testCases.TC002_LoginTest - ****Entering Valid Login Details****
+21:17:45.307 [main] INFO  testCases.TC002_LoginTest - ****Validating My Account message****
+21:17:45.387 [main] INFO  testCases.TC002_LoginTest - ****Completed TC002 Login Test Case****

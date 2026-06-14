@@ -15,33 +15,6 @@
           <include name="verifyLoginTest"/>
         </methods>
       </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyAccountRegistration"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
     </classes>
   </test> <!-- Linux-Chrome(failed) -->
-  <test thread-count="5" name="Linux-firefox(failed)">
-    <parameter name="os" value="Linux"/>
-    <parameter name="browser" value="firefox"/>
-    <classes>
-      <class name="testCases.TC002_LoginTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="verifyLoginTest"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyAccountRegistration"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </classes>
-  </test> <!-- Linux-firefox(failed) -->
 </suite> <!-- Failed suite [Suite] -->

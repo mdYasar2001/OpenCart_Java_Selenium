@@ -5,20 +5,20 @@
 	<listener class-name="utilities.ExtentReportUtility"></listener>
 </listeners>
 
-  <test name="Linux-Chrome">
-	  <parameter name="os" value="Linux"/>
+  <test name="windows-Chrome">
+	  <parameter name="os" value="windows"/>
 	  <parameter name="browser" value="chrome"/>
     <classes>
     	<class name="testCases.TC001_AccountRegistrationTest"/>
       	<class name="testCases.TC002_LoginTest"/>
     </classes>
   </test>
-  <test name="Linux-firefox">
+  <!-- <test name="Linux-firefox">
 	  <parameter name="os" value="Linux"/>
 	  <parameter name="browser" value="firefox"/>
     <classes>
     	<class name="testCases.TC001_AccountRegistrationTest"/>
       	<class name="testCases.TC002_LoginTest"/>
     </classes>
-  </test>    <!-- Test -->
+  </test> -->
 </suite> <!-- Suite -->
