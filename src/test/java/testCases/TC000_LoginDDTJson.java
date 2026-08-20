@@ -15,6 +15,8 @@ public class TC000_LoginDDTJson extends BaseClass{
 	{
 		logger.info("****Starting TC0003-Login Test DDT****");
 		
+		System.out.println(email+pswd+exp);
+		
 		try {
 			// Homepage
 			HomePage hp = new HomePage(driver, wait);
@@ -23,8 +25,10 @@ public class TC000_LoginDDTJson extends BaseClass{
 			
 			// Login
 			LoginPage lp = new LoginPage(driver, wait);
-			lp.enterEmail(p.getProperty("email"));
-			lp.enterPswd(p.getProperty("password"));
+//			lp.enterEmail(p.getProperty("email"));
+//			lp.enterPswd(p.getProperty("password"));
+			lp.enterEmail(email);
+			lp.enterPswd(pswd);
 			lp.clickLogin();
 			
 			// My Account
